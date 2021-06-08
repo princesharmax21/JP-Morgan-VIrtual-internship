@@ -1,3 +1,4 @@
+![0001](https://user-images.githubusercontent.com/51755635/121185954-3546c200-c884-11eb-8567-533d8bbdfa91.jpg)
 # JPMorgan-Chase & Co -Virtual-Internship
 This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship.
 I have performed three tasks in which i have to add some values and correct values in the files like interface with stock price data feed.
